@@ -58,3 +58,8 @@
 - Ambiente Humano
 - Seminario de Estudios Filosóficos Históricos y Seminario de Estudios Costarricenses
 - Desarrollo de Emprendedores 
+
+
+## Mi plan de estudios
+
+<img src='https://github.com/rooseveltalej/vida-estudiantil/blob/main/public_documentos-ic-cartago_malla-curricular-y-plan-de-estudio_412_Malla_Curricular_412.jpeg' />
