@@ -12,3 +12,5 @@ fueron José Andrés Lorenzo Segura y Arnold Jafeth Alvares Rojas.
 
 Este proyecto fue realizado casi en su totalidad, logrando una puntuación
 de 82 puntos sobre 100 según las métricas de evaluación de la profesora. 
+
+Este proyecto lo pueden encontrar en el siguiente repositorio: https://github.com/rooseveltalej/SegundoProyectoAnalisis 
