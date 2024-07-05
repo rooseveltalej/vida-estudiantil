@@ -3,7 +3,7 @@
 
 ## Aspectos a considerar
 - Aún no he terminado mi carrera, por ende habrá carpetas (cursos) sin proyectos.
-- Algunos proyectos por falta de tiempo en su momento fueron presentados con ciertas deficiencias, la idea es mejorar los proyectos y mostrar en este repositorio una versión mejorada de estos. Eso sí, trabajando con las tecnologías que nos solicitaban en los enunciados (y si es necesario, agregar otras, más no quitar ninguna).
+- Algunos proyectos por falta de tiempo en su momento fueron presentados con ciertas deficiencias, la idea es mejorar los proyectos y mostrarlos en este repositorio. Eso sí, trabajando con las tecnologías que nos solicitaban en los enunciados (y si es necesario, agregar otras, más no quitar ninguna).
 - La idea principal de este repositorio es generar una especie de portafolio, sin embargo, si algo de acá les interesa, lo pueden tomar sin ningún problema, incluso, si quisieran contactar conmigo lo pueden hacer mediante mi correo.
 
 ## Cursos por ejes tématicos
