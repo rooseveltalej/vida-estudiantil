@@ -1,4 +1,4 @@
-# Práctica Profesional
+# Práctica Profesional (No Cursado)
 
 La Práctica de Especialidad es un espacio de enseñanza y
 aprendizaje por medio del cual el estudiante confronta lo
