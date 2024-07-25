@@ -8,16 +8,16 @@
 
 ## Cursos por ejes tématicos
 ### Introducción a la Computación
-- Introducción a la Programación
-- Taller de Programación
-- Estructuras de Datos
-- Programación Orientada a Objetos
-- Fundamentos de organización de computadoras
-- Arquitectura de computadores
+- Introducción a la Programación (Cursado)
+- Taller de Programación (Cursado)
+- Estructuras de Datos (Cursado)
+- Programación Orientada a Objetos (Cursado)
+- Fundamentos de organización de computadoras (Cursado)
+- Arquitectura de computadores (Cursado)
 
 ### Ciencias de la computación
-- Análisis de Algoritmos
-- Lenguajes de Programación (también conocido como Paradigmas de Programación)
+- Análisis de Algoritmos (Cursado)
+- Lenguajes de Programación (también conocido como Paradigmas de Programación) (En Curso)
 - Compiladores e Interpretes
 - Principios de Sistemas Operativos
 - Investigación de Operaciones
@@ -25,16 +25,17 @@
 - Redes
 
 ### Ingeniería de software
-- Requerimientos de Software
-- Diseño de Software
+- Requerimientos de Software (Cursado)
+- Diseño de Software (En Curso)
+- Administración de Proyectos (En Curso)
 - Aseguramiento de la Calidad de Software
 - Proyecto de Ingeniería de Software
 - Computación y Sociedad
 - Seguridad del Software
 
 ### Bases de Datos
-- Bases de Datos 1
-- Bases de Datos 2
+- Bases de Datos 1 (Cursado)
+- Bases de Datos 2 (En Curso)
 
 ### Electivas
 - Electiva 1
@@ -45,18 +46,19 @@
 
 ## Cursos que no tomé en cuenta para este repositorio
 ### Matemáticas
-- Matemática General
-- Matemática Discreta
-- Cálculo Diferencial e Integral
-- Cálculo y Álgebra Lineal
-- Probabilidades
+- Matemática General (Cursado)
+- Matemática Discreta (Cursado)
+- Cálculo Diferencial e Integral (Cursado)
+- Cálculo y Álgebra Lineal (Cursado)
+- Probabilidades (En Curso)
 - Estadística
 
 ### Ciencias sociales 
-- Inglés 1 y 2
-- Comunicación Escrita y Oral
-- Ambiente Humano
-- Seminario de Estudios Filosóficos Históricos y Seminario de Estudios Costarricenses
+- Inglés 1 y 2 (Cursado)
+- Comunicación Escrita y Oral (Cursado)
+- Ambiente Humano (Cursado)
+- Seminario de Estudios Filosóficos Históricos (Cursado)
+- Seminario de Estudios Costarricenses (En Curso)
 - Desarrollo de Emprendedores 
 
 
